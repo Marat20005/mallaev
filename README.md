@@ -1,3 +1,3 @@
 # mallaev
-hello-word
+<hello-word>
 Меня зовут Марат, я студент 2 курса
